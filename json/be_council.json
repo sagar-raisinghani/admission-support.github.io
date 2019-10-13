@@ -1,0 +1,74 @@
+{
+  "actors": [
+    {
+      "name": "MURLIDHAR SHARMA",
+	  "post":"CHAIRPERSON",
+      "image": "http://istevesit.org/app/photos/council/Be/murli_s.jpg"
+    },
+    {
+      "name": "BHAVIKA SHAHANI",
+	  "post":"CO-CHAIRPERSON",
+      "image": "http://istevesit.org/app/photos/council/Be/bhavika_s.jpg"
+    },
+    {
+      "name": "NEEL JAIN",
+	  "post":"SR. TREASURER",
+      "image": "http://istevesit.org/app/photos/council/Be/neeil_j.jpg"
+    },
+    {
+      "name": "SUSMITA CHOUGULE",
+	  "post":"CHIEF EXECUTIVE OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Be/susmita_c.jpg"
+    },
+	{
+      "name": "SAGAR RAISINGHANI",
+	  "post":"CHIEF TECHNICAL OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Be/sagar_r.jpg"
+    },
+    {
+      "name": "KAPIL TRIVEDI",
+	  "post":"SENIOR TECHNICAL OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Be/kapil_t.jpg"
+    },
+    {
+      "name": "JIGISHA PRAJAPATI",
+	  "post":"SENIOR TECHNICAL OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Be/jigisha_p.jpg"
+    },
+    {
+      "name": "AMEY PARAB",
+	  "post":"SENIOR TECHNICAL OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Be/amey_p.jpg"
+    },
+    {
+      "name": "VIPUL KITHANI",
+	  "post":"SENIOR EDITOR",
+      "image": "http://istevesit.org/app/photos/council/Be/vipul_k.jpg"
+    },
+    {
+      "name": "HARSHA PUNJABI",
+    "post":"SENIOR EDITOR",
+      "image": "http://istevesit.org/app/photos/council/Be/harsha_p.jpg"
+    },
+    {
+      "name": "ATIT MORE",
+    "post":"SENIOR OPERATIONS OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Be/atit_m.jpg"
+    },
+    {
+      "name": "SUDIPTA DINDA",
+    "post":"SENIOR OPERATIONS OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Be/sudipta_d.jpg"
+    },
+    {
+      "name": "GANESH KOTALWAR",
+    "post":"SENIOR OPERATIONS OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Be/ganesh_k.jpg"
+    },
+    {
+      "name": "NISHANT MORE",
+    "post":"SENIOR OPERATIONS OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Be/nishant_m.jpg"
+    }
+  ]
+}

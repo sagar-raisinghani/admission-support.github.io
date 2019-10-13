@@ -1,0 +1,104 @@
+{
+  "actors": [
+    {
+      "name": "AVISHA NAGARKAR",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/avisha.jpeg"
+    },
+    {
+      "name": "KAJAL GHADGE",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/kajal.jpeg"
+    },
+    {
+      "name": "UDIT BHATIA",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/udit.jpeg"
+    },
+    {
+      "name": "DISHA ROHRA",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/disha.jpeg"
+	  },
+	{
+      "name": "DHAVAL BAGAL",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/dhaval.jpeg"
+	  },
+    {
+      "name": "MUSKAN RAISINGHANI",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/muskan.jpg"
+	  },
+    {
+      "name": "GRISHMA GURBANI",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/grishma.jpeg"
+	  },
+    {
+      "name": "GAURAV HASIJA",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/gaurav h.jpeg"
+	  },
+    {
+      "name": "SONY CHAUHAN",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/sony.jpeg"
+	  },
+    {
+      "name": "ADITYA RANKA",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/aditya.jpeg"
+	  },
+	{
+      "name": "MOHNISH NIDUVAJE",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/mohnish.jpeg"
+	  },
+    {
+      "name": "AYUSH PATTIWAR",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/ayush.jpeg"
+	  },
+    {
+      "name": "RIYA THOMAS",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/riya.jpeg"
+	  },
+    {
+      "name": "ARUNA SHAJU",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/aruna.jpeg"
+	  },
+	{
+      "name": "PRANAV SARODE",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/pranav.jpeg"
+	  },
+    {
+      "name": "SHIVA AHIR",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/shiva.jpeg"
+	  },
+    {
+      "name": "GAURAV SAHU",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/gaurav s.jpeg"
+	  },
+    {
+      "name": "DEEKSHA SHETTY",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/deeksha.jpeg"
+	  },
+    {
+      "name": "REKHA GUPTA",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/rekha.jpg"
+	  },
+    {
+      "name": "HIMANSHU CHANDNANI",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/himanshu.jpeg"
+	  }
+  ]
+}

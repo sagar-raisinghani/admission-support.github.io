@@ -1,0 +1,105 @@
+{
+  "actors": [
+    {
+      "name": "MUSKAN RAISINGHANI",
+	  "post":"MANAGING SECRETARY",
+      "image": "http://istevesit.org/app/photos/council/Te/muskan_r.jpeg"
+    },
+    {
+      "name": "AVISHA NAGARKAR",
+	  "post":"OPERATIONS SECRETARY",
+      "image": "http://istevesit.org/app/photos/council/Te/avisha_n.jpeg"
+    },
+    {
+      "name": "ADITYA RANKA",
+	  "post":"JUNIOR TREASURER",
+      "image": "http://istevesit.org/app/photos/council/Te/aditya_r.jpeg"
+    },
+    {
+      "name": "CHINMAY PATIL",
+	  "post":"TECHNICAL OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/chinmay_p.jpeg"
+    },
+    {
+      "name": "JASKARAN SINGH",
+	  "post":"TECHNICAL OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/jaskaran_s.jpeg"
+    },
+	{
+      "name": "HIMANSHU GOSAVI",
+	  "post":"TECHNICAL OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/himanshu_g.jpeg"
+    },
+    {
+      "name": "PRANAV SARODE",
+	  "post":"TECHNICAL OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/pranav_s.jpeg"
+    },
+    {
+      "name": "GRISHMA GURBANI",
+	  "post":"TECHNICAL OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/grishma_g.jpeg"
+    },
+ {
+      "name": "SIMRAN BHAGWANDASANI",
+	  "post":"TECHNICAL OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/simran_b.jpeg"
+    },
+    {
+      "name": "RON PAUL",
+	  "post":"TECHNICAL OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/ron_p.jpeg"
+    },
+ {
+      "name": "HENA BAJAJ",
+	  "post":"OPERATIONS OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/hena_b.jpeg"
+    },
+ {
+      "name": "AKSHAY PATTEWAR",
+	  "post":"OPERATIONS OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/akshay_p.jpeg"
+    },
+ {
+      "name": "SHIVA AHIR",
+	  "post":"OPERATIONS OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/shiva_a.jpeg"
+    },
+ {
+      "name": "MOHNISH NIDUVAJE",
+	  "post":"OPERATIONS OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/mohnish_n.jpeg"
+    },
+ {
+      "name": "VRUSHALI BORKAR",
+	  "post":"OPERATIONS OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/vrushali_b.jpeg"
+    },
+ {
+      "name": "PRANJAL JAMBURKAR",
+	  "post":"OPERATIONS OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/pranjal_j.jpeg"
+    },
+    {
+      "name": "VINDHYA RANPISE",
+	  "post":"PUBLIC RELATION OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/vindhya_r.jpeg"
+    },
+    {
+      "name": "RAHUL BHATIA",
+	  "post":"PUBLIC RELATION OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/rahul_b.jpeg"
+    },
+    {
+      "name": "REKHA GUPTA",
+	  "post":"PUBLIC RELATION OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/rekha_g.jpeg"
+    },
+    {
+      "name": "ROMA MOTWANI",
+    "post":"PUBLIC RELATION OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/roma_m.jpeg"
+    }
+
+  ]
+}

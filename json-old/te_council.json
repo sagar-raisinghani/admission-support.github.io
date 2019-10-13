@@ -1,0 +1,100 @@
+{
+  "actors": [
+    {
+      "name": "SUMI NEOGI",
+	  "post":"MANAGING SECRETARY",
+      "image": "http://istevesit.org/app/photos/council/Te/sumi.jpg"
+    },
+    {
+      "name": "MURLIDHAR SHARMA",
+	  "post":"OPERATIONS SECRETARY",
+      "image": "http://istevesit.org/app/photos/council/Te/murli.jpg"
+    },
+    {
+      "name": "TARASHA AGARWAL",
+	  "post":"EXECUTIVE SECRETARY",
+      "image": "http://istevesit.org/app/photos/council/Te/tarasha.jpeg"
+    },
+    {
+      "name": "NEEIL JAIN",
+	  "post":"JR. TREASURER",
+      "image": "http://istevesit.org/app/photos/council/Te/neeil1.jpeg"
+    },
+    {
+      "name": "SAGAR RAISINGHANI",
+	  "post":"TECHNICAL OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/sagar.jpg"
+    },
+	{
+      "name": "RANJEETKUMAR YADAV",
+	  "post":"TECHNICAL OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/ranjeet.jpeg"
+    },
+    {
+      "name": "BHAVESH MOTIRAMANI",
+	  "post":"TECHNICAL OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/bhavesh.jpeg"
+    },
+    {
+      "name": "JIGISHA PRAJAPATI",
+	  "post":"TECHNICAL OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/jigi.jpg"
+    },
+ {
+      "name": "MAHIMA MOTWANI",
+	  "post":"TECHNICAL OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/mahima.jpg"
+    },
+    {
+      "name": "AMEY PARAB",
+	  "post":"TECHNICAL OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/amey.jpg"
+    },
+ {
+      "name": "NISHANT MORE",
+	  "post":"OPERATIONS OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/nishant.jpeg"
+    },
+ {
+      "name": "BHAVIKA SHAHANI",
+	  "post":"OPERATIONS OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/bhavika.jpeg"
+    },
+ {
+      "name": "GANESH KOTALWAR",
+	  "post":"OPERATIONS OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/ganesh.jpeg"
+    },
+ {
+      "name": "SUDIPTA DINDA",
+	  "post":"OPERATIONS OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/sudipta.jpeg"
+    },
+ {
+      "name": "SUSHMITA CHOUGULE",
+	  "post":"OPERATIONS OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/susmita.jpeg"
+    },
+ {
+      "name": "SUMEET SARODE",
+	  "post":"OPERATIONS OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/sumit.jpeg"
+    },
+    {
+      "name": "ANCHAL LALWANI",
+	  "post":"PUBLIC RELATION OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/anchal.jpeg"
+    },
+    {
+      "name": "VIPUL KITHANI",
+	  "post":"PUBLIC RELATION OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/vipul.jpg"
+    },
+    {
+      "name": "HARSHA PUNJABI",
+	  "post":"PUBLIC RELATION OFFICER",
+      "image": "http://istevesit.org/app/photos/council/Te/harsha.jpg"
+    }
+
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "actors": [
+    {
+      "name": "TECHTRIX",
+	  "post":"",
+      "image": "http://istevesit.org/app/photos/gallery/upcoming/techtrix.jpg"
+    },
+ {
+      "name": "SE CORD",
+	  "post":"",
+      "image": "http://istevesit.org/app/photos/gallery/upcoming/secord.jpg"
+    },
+
+ {
+      "name": "AROUND THE WORLD",
+	  "post":"",
+      "image": "http://istevesit.org/app/photos/gallery/upcoming/atw.jpg"
+    } 
+
+    
+ ]
+}

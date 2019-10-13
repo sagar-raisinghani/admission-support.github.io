@@ -1,0 +1,49 @@
+{
+  "actors": [
+    {
+      "name": "DANISH PATEL",
+	  "post":"CHAIRPERSON",
+      "image": "http://istevesit.org/app/photos/council/Be/danish.jpg"
+    },
+    {
+      "name": "AKSHAY MANE",
+	  "post":"SR. SECRETARY",
+      "image": "http://istevesit.org/app/photos/council/Be/akshay.jpg"
+    },
+    {
+      "name": "HASHMEET CHAUDHERY",
+	  "post":"SR. TREASURER",
+      "image": "http://istevesit.org/app/photos/council/Be/hashmeet.jpg"
+    },
+    {
+      "name": "ANJLI JAISINGHANI",
+	  "post":"B.E CORE",
+      "image": "http://istevesit.org/app/photos/council/Be/anjli.jpg"
+    },
+	{
+      "name": "GURNEET SINGH BANEGA",
+	  "post":"B.E CORE",
+      "image": "http://istevesit.org/app/photos/council/Be/gurneet.jpg"
+    },
+    {
+      "name": "NIKHIL RAMGIRI",
+	  "post":"B.E CORE",
+      "image": "http://istevesit.org/app/photos/council/Be/nikhil ramgiri.jpg"
+    },
+    {
+      "name": "NIKHIL VATWANI",
+	  "post":"B.E CORE",
+      "image": "http://istevesit.org/app/photos/council/Be/nikhil vatwani.jpg"
+    },
+    {
+      "name": "PRATHAMESH PATIL",
+	  "post":"B.E CORE",
+      "image": "http://istevesit.org/app/photos/council/Be/nemo.jpg"
+    },
+    {
+      "name": "SATISH FULWANI",
+	  "post":"B.E CORE",
+      "image": "http://istevesit.org/app/photos/council/Be/satish.jpg"
+    }
+  ]
+}

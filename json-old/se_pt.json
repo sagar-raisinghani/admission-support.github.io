@@ -1,0 +1,43 @@
+{
+  "actors": [
+    {
+    "class":"D6A",
+	"points":"0" 
+    },
+    {
+     "class":"D6B",
+     "points":"0"
+    },
+    {
+     "class":"D7A",
+	 "points":"0"  
+    },
+    {
+     "class":"D7B",
+     "points":"0"
+	},
+    {
+     "class":"D7C",
+     "points":"0"
+	},
+    {
+     "class":"D8  ",
+     "points":"0"},
+	{
+     "class":"D9A", 
+     "points":"0"
+	},
+    {
+     "class":"D9B",
+     "points":"0"
+	},
+    {
+     "class":"D9C",
+     "points":"0"
+	},
+    {
+     "class":"D10",
+     "points":"0"
+	}
+  ]
+}

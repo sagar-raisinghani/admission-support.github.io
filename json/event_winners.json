@@ -1,0 +1,31 @@
+{
+  "actors": [
+    {
+      "image":"http://istevesit.org/app/photos/gallery/winner/gd.jpeg",
+      "event":"GROUP DICUSSION"
+    },
+
+    {
+      "image":"http://istevesit.org/app/photos/gallery/winner/ntu.jpeg",
+      "event":"NOTICE THE UNNOTICED" 
+    },
+
+    {
+      "image":"http://istevesit.org/app/photos/gallery/winner/atw.jpeg",
+      "event":"AROUND THE WORLD" 
+    },
+
+    {
+      "image":"http://istevesit.org/app/photos/gallery/winner/placement_week.jpeg",
+      "event":"PLACEMENT WEEK" 
+    },
+    {
+      "image":"http://istevesit.org/app/photos/gallery/winner/techtrix_winners.jpeg",
+      "event":"TECHTRIX" 
+    },
+    {
+      "image":"http://istevesit.org/app/photos/gallery/winner/dalalstreet_winners.jpeg",
+      "event":"DALAL STREET" 
+    }
+  ]
+}

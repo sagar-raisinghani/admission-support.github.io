@@ -1,0 +1,104 @@
+{
+  "actors": [
+    {
+      "name": "PRADNYA K",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/pradnya_k.jpeg"
+    },
+    {
+      "name": "SIDDHANT P",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/siddhanth_p.jpeg"
+    },
+    /*{
+      "name": "ANSHUL B",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/anshul_b.jpeg"
+    },
+    {
+      "name": "PRIYA K",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/priya_k.jpeg"
+	  },*/
+	  {
+      "name": "RISHAB S",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/rishabh_s.jpeg"
+	  },
+    {
+      "name": "YOGESH T",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/yogesh_t.jpeg"
+	  },
+    {
+      "name": "DHANSHREE S",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/dhanashree_s.jpeg"
+	  },
+    {
+      "name": "NEELAM S",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/neelam_s.jpeg"
+	  },
+    {
+      "name": "SREEVIDYA I",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/sreevidya_i.jpeg"
+	  },
+    {
+      "name": "MUSKAN C",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/muskan_c.jpeg"
+	  },
+	{
+      "name": "RUSHAB G",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/rushabh_g.jpeg"
+	  },
+    {
+      "name": "PRADEEP T",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/pradeep_t.jpeg"
+	  },
+    {
+      "name": "ROCHANA D",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/rochana_d.jpeg"
+	  },
+    {
+      "name": "NINAD W",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/ninad_w.jpeg"
+	  },
+	{
+      "name": "PRITHVI A",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/prithvi_a.jpeg"
+	  },
+    {
+      "name": "SAYALI M",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/sayali_m.jpeg"
+	  },
+    {
+      "name": "SPARSH P",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/sparsh_p.jpeg"
+	  },
+    {
+      "name": "ABHISHEK S",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/abhishek_s.jpeg"
+	  },
+    {
+      "name": "JITENDRA S",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/jitendra_s.jpeg"
+	  },
+    {
+      "name": "KAUSHIK J",
+	  "post":"CO-ORDINATOR",
+      "image": "http://istevesit.org/app/photos/council/Se/kaushik_j.jpeg"
+	  }
+  ]
+}

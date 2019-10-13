@@ -1,0 +1,20 @@
+{
+  "actors": [
+    {
+      "name": "MS ABROAD Q&A SESSION",
+    "post":"",
+      "image": "http://istevesit.org/app/photos/gallery/seminar/msseminar.jpeg"
+    }
+    /*{
+      "name": "IMAGE PROCESSING",
+	  "post":"",
+      "image": "http://istevesit.org/app/photos/gallery/seminar/seminar1.jpg"
+    },
+
+ {
+      "name": "SEMINAR ON HIGHER STUDIES",
+	  "post":"",
+      "image": "http://istevesit.org/app/photos/gallery/seminar/seminar2.jpg"
+    } */    
+ ]
+}

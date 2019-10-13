@@ -1,0 +1,48 @@
+{
+  "actors": [
+    {
+      "name": "GROUP DISCUSSION",
+	    "post":"",
+      "image": "http://istevesit.org/app/photos/gallery/event/gd.jpeg"
+    },
+    {
+      "name": "PHOTOSHOP WORKSHOP",
+      "post":"",
+      "image": "http://istevesit.org/app/photos/gallery/event/photoshop.jpeg"
+    },
+
+    {
+      "name": "NOTICE THE UNNOTICED",
+	    "post":"",
+      "image": "http://istevesit.org/app/photos/gallery/event/ntu.jpeg"
+    },
+    
+    {
+      "name": "AROUND THE WORLD",
+	    "post":"",
+      "image": "http://istevesit.org/photos/gallery/event/atw_poster.jpeg"
+    },
+
+    {
+      "name": "PLACEMENT WEEK",
+	    "post":"",
+      "image": "http://istevesit.org/photos/gallery/event/placement_week.jpeg"
+    },
+
+    {
+      "name": "TECHTRIX",
+	    "post":"",
+      "image": "http://istevesit.org/app/photos/gallery/event/techtrix.jpeg"
+    },
+    {
+      "name": "DALAL STREET",
+	    "post":"",
+      "image": "http://istevesit.org/app/photos/gallery/event/dalalstreet.jpeg"
+    },
+    {
+      "name": "TECHNICAL PAPER PRESENTATION",
+	    "post":"",
+      "image": "http://istevesit.org/app/photos/gallery/event/tpp.jpeg"
+    }
+ ]
+}
